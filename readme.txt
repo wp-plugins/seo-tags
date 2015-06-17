@@ -6,7 +6,7 @@ Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 4.3
 License: You Can Not Change or Sell.
-License URI: http://pctricks.ir
+License URI: http://ctboard.com
 
 Seo Tags Widget Adds an widget that show Most Popular Tags In Google.This Plugin Get Your Website Tags In Random Sort And Load Tags Related to By Your Subject.
 == Description ==
@@ -17,7 +17,7 @@ Seo Tags Widget Adds an widget that show Most Popular Tags In Google.This Plugin
  * Can Change Tags Count
  * Can Change Tags Engine
  
- <a href="http://pctricks.ir">Live Demo</a>
+ <a href="http://ctboard.com">Live Demo</a>
 
 == Installation ==
 
@@ -25,7 +25,8 @@ Seo Tags Widget Adds an widget that show Most Popular Tags In Google.This Plugin
 2. Go to Setting >> SEO TAGS Widget and Set options
 3. Go to widget and Drag&Drop SEO TAGS Widget widget in You theme Position.
 
-
+== Frequently Asked Questions ==
+<a href="http://forum.ctboard.com" rel="follow" >Community</a>
 
 == Screenshots ==
 
